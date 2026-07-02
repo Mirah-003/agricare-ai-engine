@@ -125,9 +125,21 @@ You can now test the engine at `http://localhost:8001/docs` (Swagger UI).
 
 ---
 
+## 🚅 Deployment (Railway.app)
+
+This repository is fully configured for seamless deployment on **Railway** using either Nixpacks or Docker:
+
+1. Connect your GitHub repository (`agricare-ai-engine`) to a new project on [Railway.app](https://railway.app).
+2. In your Railway service **Variables** tab, add the following environment variables:
+   - `GEMINI_API_KEY`: Your Google Gemini API Key
+   - `AGRICARE_API_KEY`: The custom API key your backend (Django/Twilio) will use to authenticate requests (e.g., `agricare_live_secret_key`)
+3. Railway will automatically detect the `Procfile` / `railway.json` and deploy your FastAPI application with zero downtime!
+
+---
+
 ## ☁️ Deployment (Hugging Face Spaces)
 
-This repository is pre-configured for deployment on **Hugging Face Spaces** using the Docker SDK.
+This repository is also pre-configured for deployment on **Hugging Face Spaces** using the Docker SDK.
 
 1. Create a new Space on Hugging Face (SDK: Docker).
 2. Set your `GEMINI_API_KEY` in the Space's settings (Secrets).
@@ -138,3 +150,4 @@ This repository is pre-configured for deployment on **Hugging Face Spaces** usin
 
 ---
 *Built with ❤️ for Nigerian Poultry Farmers.*
+
