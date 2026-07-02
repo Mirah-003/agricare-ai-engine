@@ -15,8 +15,11 @@ RUN useradd -m -u 1000 user
 USER user
 ENV PATH="/home/user/.local/bin:$PATH"
 
+# Default port for Hugging Face Spaces Docker container
+ENV PORT=7860
+
 # Copy the application code
 COPY --chown=user . /code
 
-# Command to run the application entrypoint script (automatically handles $PORT or defaults to 7860)
+# Command to run the application entrypoint script
 CMD ["python", "main.py"]
