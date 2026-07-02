@@ -18,5 +18,5 @@ ENV PATH="/home/user/.local/bin:$PATH"
 # Copy the application code
 COPY --chown=user . /code
 
-# Command to run the FastAPI application, dynamically using $PORT (for Railway/Render/Heroku) or defaulting to 7860 (for HF Spaces)
-CMD ["sh", "-c", "uvicorn app:app --host 0.0.0.0 --port ${PORT:-7860}"]
+# Command to run the application entrypoint script (automatically handles $PORT or defaults to 7860)
+CMD ["python", "main.py"]
