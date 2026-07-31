@@ -51,6 +51,10 @@ def run_fallback_matcher(text: str, knowledge: List[Dict[str, Any]]) -> Dict[str
             max_matches = matches
             best_match = disease
             
+    # SECURITY THRESHOLD: Require at least an exact symptom match (2) or multiple overlaps
+    if max_matches < 2:
+        best_match = None
+
     if best_match:
         name = best_match["names"].get(lang, best_match["names"].get("en", "Unknown Condition"))
         advice = best_match["advice"].get(lang, best_match["advice"].get("en", "Please consult a veterinarian."))
