@@ -26,7 +26,13 @@
                 "sudden death",
                 "gasping",
                 "looking at the sky",
-                "twisted neck"
+                "twisted neck",
+                "unvaccinated",
+                "no vaccine",
+                "all ages",
+                "adults",
+                "chicks",
+                "not vaccinated"
             ],
             "ha": [
                 "haki",
@@ -74,7 +80,13 @@
                 "wings drop",
                 "sudden death",
                 "head turning",
-                "cough"
+                "cough",
+                "unvaccinated",
+                "no vaccine",
+                "all ages",
+                "adults",
+                "chicks",
+                "not vaccinated"
             ],
             "sw": [
                 "kupumua kwa shida",
@@ -127,7 +139,11 @@
                 "blue comb/wattles",
                 "blood-tinged discharge",
                 "severe depression",
-                "drop in egg production"
+                "drop in egg production",
+                "all ages",
+                "sudden death",
+                "flock dead",
+                "many dead"
             ],
             "ha": [
                 "mutuwar kwatsam ba tare da alamomi ba",
@@ -159,7 +175,11 @@
                 "blue comb",
                 "blood from nose",
                 "serious depression",
-                "egg production drop"
+                "egg production drop",
+                "all ages",
+                "sudden death",
+                "flock dead",
+                "many dead"
             ],
             "sw": [
                 "kifo cha ghafla",
@@ -213,7 +233,13 @@
                 "huddling",
                 "shit blood",
                 "red poop",
-                "weakness"
+                "weakness",
+                "3 weeks",
+                "4 weeks",
+                "5 weeks",
+                "6 weeks",
+                "young birds",
+                "blood in poop"
             ],
             "ha": [
                 "zawo mai jini",
@@ -257,7 +283,13 @@
                 "red poop",
                 "weight loss",
                 "feathers scatter",
-                "dem gather together"
+                "dem gather together",
+                "3 weeks",
+                "4 weeks",
+                "5 weeks",
+                "6 weeks",
+                "young birds",
+                "blood in poop"
             ],
             "sw": [
                 "bloody droppings",
@@ -311,7 +343,13 @@
                 "sudden drop in appetite",
                 "dem dey shake",
                 "watery diarrhea",
-                "dehydration"
+                "dehydration",
+                "3 weeks",
+                "4 weeks",
+                "5 weeks",
+                "6 weeks",
+                "young birds",
+                "watery poop"
             ],
             "ha": [
                 "zawo mai ruwa farin",
@@ -350,7 +388,13 @@
                 "dem dey peck back",
                 "watery diarrhea",
                 "feathers scatter",
-                "body dry"
+                "body dry",
+                "3 weeks",
+                "4 weeks",
+                "5 weeks",
+                "6 weeks",
+                "young birds",
+                "watery poop"
             ],
             "sw": [
                 "white watery diarrhea",
@@ -403,7 +447,11 @@
                 "weight loss",
                 "tumors in organs",
                 "paralyzed leg",
-                "paralysis of legs/wings"
+                "paralysis of legs/wings",
+                "day old",
+                "young chicks",
+                "pullets",
+                "paralyzed"
             ],
             "ha": [
                 "shanyewar ƙafafu/fukafukai",
@@ -441,7 +489,11 @@
                 "paralysis of leg/wing",
                 "falling down",
                 "weight loss",
-                "paralyzed leg"
+                "paralyzed leg",
+                "day old",
+                "young chicks",
+                "pullets",
+                "paralyzed"
             ],
             "sw": [
                 "paralysis of legs/wings",
@@ -493,7 +545,10 @@
                 "loss of appetite",
                 "sores in mouth",
                 "warts on face",
-                "wart-like bumps on comb/wattles"
+                "wart-like bumps on comb/wattles",
+                "all ages",
+                "mosquitoes",
+                "rainy season"
             ],
             "ha": [
                 "kumburi kamar wart akan tsefe/gemu",
@@ -527,7 +582,10 @@
                 "black spots on face",
                 "egg reduce",
                 "warts on face",
-                "sore for mouth"
+                "sore for mouth",
+                "all ages",
+                "mosquitoes",
+                "rainy season"
             ],
             "sw": [
                 "wart-like bumps on comb/wattles",
@@ -571,7 +629,11 @@
                 "soft shell eggs",
                 "watery eyes",
                 "breathing sound",
-                "drop in egg production"
+                "drop in egg production",
+                "layers",
+                "drop in eggs",
+                "pullets",
+                "cold weather"
             ],
             "ha": [
                 "tari",
@@ -613,7 +675,11 @@
                 "soft shell eggs",
                 "watery eyes",
                 "breathing sound",
-                "cough"
+                "cough",
+                "layers",
+                "drop in eggs",
+                "pullets",
+                "cold weather"
             ],
             "sw": [
                 "coughing",
@@ -668,7 +734,10 @@
                 "sudden death",
                 "greenish yellow diarrhea",
                 "dying very fast",
-                "cyanosis (blue comb)"
+                "cyanosis (blue comb)",
+                "adult birds",
+                "older birds",
+                "swollen comb"
             ],
             "ha": [
                 "mutuwar kwatsam",
@@ -705,7 +774,10 @@
                 "blue comb",
                 "sudden death",
                 "greenish yellow diarrhea",
-                "dying very fast"
+                "dying very fast",
+                "adult birds",
+                "older birds",
+                "swollen comb"
             ],
             "sw": [
                 "sudden death",
@@ -757,7 +829,11 @@
                 "white paste on vent",
                 "huddling near heat",
                 "sudden death in chicks",
-                "huddling together"
+                "huddling together",
+                "chicks",
+                "first week",
+                "day old",
+                "young chicks"
             ],
             "ha": [
                 "zawo farin (maƙale a tsuntsu)",
@@ -794,7 +870,11 @@
                 "feeling cold",
                 "white diarrhea",
                 "white paste on vent",
-                "huddling together"
+                "huddling together",
+                "chicks",
+                "first week",
+                "day old",
+                "young chicks"
             ],
             "sw": [
                 "white diarrhea (pasted vent)",
