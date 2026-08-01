@@ -96,11 +96,11 @@
             ]
         },
         "advice": {
-            "en": "VACCINATE at Day 1 (eye drop) and Week 3-4 (LaSota in water). Isolate sick birds IMMEDIATELY. Call a veterinarian TODAY.",
-            "ha": "YI RIGAKAFI a Rana 1 (a ido) da Mako 3-4 (LaSota a ruwa). Ware tsuntsaye marasa lafiya YANZU. Kira likitan dabbobi YAU.",
-            "yo": "Ṣe AJESARA ní Ọjọ́ kìíní (ojú) àti Ọ̀sẹ̀ kẹta si kẹrin (LaSota nínú omi). Ya àwọn adìẹ aláìsàn sọ́tọ̀ BÁYÌÍ. Pe dókítà ẹran LÓNÌÍ.",
-            "ig": "GBAA ỌGWỤ MGBOCHI n'Ụbọchị 1 (anya) na Izuụka 3-4 (LaSota na mmiri). Kewapụ ọkụkọ na-arịa ọrịa UGBUA. Kpọọ dibia anụmanụ TAA.",
-            "pcm": "VACCINATE for Day 1 (eye drop) and Week 3-4 (LaSota inside water). Separate sick birds NOW NOW. Call vet doctor TODAY.",
+            "en": "VACCINATE at Day 1 (eye drop) and Week 3-4 (LaSota in water). Isolate sick birds IMMEDIATELY. Call a veterinarian TODAY. Local remedy: Soak cut Tagiri (Christmas melon) in their drinking water to help prevent viral spread.",
+            "ha": "YI RIGAKAFI a Rana 1 (a ido) da Mako 3-4 (LaSota a ruwa). Ware tsuntsaye marasa lafiya YANZU. Kira likitan dabbobi YAU. Maganin gargajiya: A jika yanyankan Tagiri a cikin ruwan shan su don rigakafin yaduwar kwayar cutar.",
+            "yo": "Ṣe AJESARA ní Ọjọ́ kìíní (ojú) àti Ọ̀sẹ̀ kẹta si kẹrin (LaSota nínú omi). Ya àwọn adìẹ aláìsàn sọ́tọ̀ BÁYÌÍ. Pe dókítà ẹran LÓNÌÍ. Oògùn ìbílẹ̀: Rẹ Tagiri (Kérésìmesì mẹ́lọ̀nù) tí a ti bẹ́ sínú omi mímu wọn láti dènà ìtànkálẹ̀ fáírọ́ọ̀sì.",
+            "ig": "GBAA ỌGWỤ MGBOCHI n'Ụbọchị 1 (anya) na Izuụka 3-4 (LaSota na mmiri). Kewapụ ọkụkọ na-arịa ọrịa UGBUA. Kpọọ dibia anụmanụ TAA. Ọgwụ ọdịnala: Tụnye Tagiri (Christmas melon) ebiribi n'ime mmiri ọñụñụ ha iji gbochie mgbasa nje.",
+            "pcm": "VACCINATE for Day 1 (eye drop) and Week 3-4 (LaSota inside water). Separate sick birds NOW NOW. Call vet doctor TODAY. Local remedy: Cut Tagiri (Christmas melon) soak am for dia drinking water to help stop the virus.",
             "sw": "CHANJA siku ya 1."
         },
         "escalation_words": [
@@ -302,11 +302,11 @@
             ]
         },
         "advice": {
-            "en": "Buy AMPROLIUM from vet shop. Give 1g/2L water for 5-7 days. Keep litter dry. Use anticoccidial in feed for prevention.",
-            "ha": "Sayi AMPROLIUM daga shagon likitan dabbobi. Ba gram 1/lita 2 na ruwa tsawon kwanaki 5-7. Kiyaye kwanciya bushe. Yi amfani da anticoccidial a abinci don rigakafi.",
-            "yo": "Ra AMPROLIUM láti ilé ìtajà oògùn. Fún gram 1/lítà omi 2 fún ọjọ́ 5-7. Pa ibùsùn gbẹ. Lo anticoccidial nínú oúnjẹ fún ìdènà.",
-            "ig": "Zụta AMPROLIUM n'ụlọ ahịa ọgwụ. Nye gram 1/lita mmiri 2 maka ụbọchị 5-7. Debe ihe mkpofu akọrọ. Jiri anticoccidial na nri maka mgbochi.",
-            "pcm": "Buy AMPROLIUM from vet shop. Give 1g/2L water for 5-7 days. Keep floor dry. Use anticoccidial in feed to prevent.",
+            "en": "Buy AMPROLIUM from vet shop. Give 1g/2L water for 5-7 days. Keep litter dry. Use anticoccidial in feed for prevention. Local remedy: Squeeze Bitter leaf (Vernonia amygdalina) or Aloe Vera into their drinking water to aid gut health.",
+            "ha": "Sayi AMPROLIUM daga shagon likitan dabbobi. Ba gram 1/lita 2 na ruwa tsawon kwanaki 5-7. Kiyaye kwanciya bushe. Yi amfani da anticoccidial a abinci don rigakafi. Maganin gargajiya: A matse Shuwaka ko Aloe Vera a cikin ruwan shan su don inganta lafiyar hanji.",
+            "yo": "Ra AMPROLIUM láti ilé ìtajà oògùn. Fún gram 1/lítà omi 2 fún ọjọ́ 5-7. Pa ibùsùn gbẹ. Lo anticoccidial nínú oúnjẹ fún ìdènà. Oògùn ìbílẹ̀: Fún ewúrò tàbí Aloe Vera sínú omi mímu wọn láti jẹ́ kí ìfun wọn wà ní ìlera.",
+            "ig": "Zụta AMPROLIUM n'ụlọ ahịa ọgwụ. Nye gram 1/lita mmiri 2 maka ụbọchị 5-7. Debe ihe mkpofu akọrọ. Jiri anticoccidial na nri maka mgbochi. Ọgwụ ọdịnala: Pịkọta Onugbu ma ọ bụ Aloe Vera n'ime mmiri ọñụñụ ha iji nyere ahụike eriri afọ aka.",
+            "pcm": "Buy AMPROLIUM from vet shop. Give 1g/2L water for 5-7 days. Keep floor dry. Use anticoccidial in feed to prevent. Local remedy: Squeeze Bitter leaf or Aloe Vera put for dia water to help wash dia belle.",
             "sw": "Buy AMPROLIUM from vet shop. Give 1g/2L water for 5-7 days. Keep litter dry. Use anticoccidial in feed for prevention."
         },
         "escalation_words": [
@@ -596,11 +596,11 @@
             ]
         },
         "advice": {
-            "en": "VACCINATE with fowl pox vaccine. No specific treatment. Provide soft food and clean water. Birds usually recover in 2-3 weeks.",
-            "ha": "YI RIGAKAFI da maganin fowl pox. Babu takamaiman magani. Ba da abinci mai laushi da ruwa mai tsabta. Tsuntsaye sukan warke cikin makonni 2-3.",
-            "yo": "Ṣe ÀJẸSÁRA pẹ̀lú oògùn fowl pox. Kò sí oògùn pàtó. Fún oúnjẹ rírọ̀ àti omi mímọ́. Ẹyẹ sábà máa ń wò láàárín ọ̀sẹ̀ 2-3.",
-            "ig": "GBAA ỌGWỤ MGBOCHI fowl pox. Enweghị ọgwụgwọ pụrụ iche. Nye nri dị nro na mmiri dị ọcha. Nnụnụ na-agbake n'ime izu 2-3.",
-            "pcm": "VACCINATE with fowl pox vaccine. No special medicine. Give soft food and clean water. Birds fit recover in 2-3 weeks.",
+            "en": "VACCINATE with fowl pox vaccine. No specific treatment. Provide soft food and clean water. Birds usually recover in 2-3 weeks. Local remedy: Apply Palm oil mixed with ash on the scabs to soothe and dry them up.",
+            "ha": "YI RIGAKAFI da maganin fowl pox. Babu takamaiman magani. Ba da abinci mai laushi da ruwa mai tsabta. Tsuntsaye sukan warke cikin makonni 2-3. Maganin gargajiya: A shafa Man ja da toka akan kurajen don su bushe.",
+            "yo": "Ṣe ÀJẸSÁRA pẹ̀lú oògùn fowl pox. Kò sí oògùn pàtó. Fún oúnjẹ rírọ̀ àti omi mímọ́. Ẹyẹ sábà máa ń wò láàárín ọ̀sẹ̀ 2-3. Oògùn ìbílẹ̀: Pa epo pupa tí a pò mọ́ eérú sára egbò náà láti jẹ́ kó gbẹ.",
+            "ig": "GBAA ỌGWỤ MGBOCHI fowl pox. Enweghị ọgwụgwọ pụrụ iche. Nye nri dị nro na mmiri dị ọcha. Nnụnụ na-agbake n'ime izu 2-3. Ọgwụ ọdịnala: Tee mmanụ nkwụ ejikọtara na ntụ n'elu ọnya ahụ iji mee ka ọ kọọ.",
+            "pcm": "VACCINATE with fowl pox vaccine. No special medicine. Give soft food and clean water. Birds fit recover in 2-3 weeks. Local remedy: Rub Palm oil wey dem mix with ash for the wound to make am dry.",
             "sw": "VACCINATE with fowl pox vaccine. No specific treatment. Provide soft food and clean water. Birds usually recover in 2-3 weeks."
         },
         "escalation_words": []
@@ -692,11 +692,11 @@
             ]
         },
         "advice": {
-            "en": "VACCINATE with IB vaccine. No specific treatment. Provide warmth, clean water, and good ventilation. Antibiotics for secondary infections.",
-            "ha": "YI RIGAKAFI da maganin IB. Babu takamaiman magani. Bayar da ɗumi, ruwa mai tsabta, da isasshiyar iska. Maganin rigakafi don kamuwa da cuta na biyu.",
-            "yo": "Ṣe ÀJẸSÁRA pẹ̀lú oògùn IB. Kò sí oògùn pàtó. Fún ni ooru, omi mímọ́, àti àtẹgùn dáradára. Oògùn àrùn fún àkóràn kejì.",
-            "ig": "GBAA ỌGWỤ MGBOCHI IB. Enweghị ọgwụgwọ pụrụ iche. Nye okpomọkụ, mmiri dị ọcha, na ikuku zuru oke. Ọgwụ nje maka ọrịa nke abụọ.",
-            "pcm": "VACCINATE with IB vaccine. No special treatment. Give warmth, clean water, and good breeze. Antibiotics for secondary infections.",
+            "en": "VACCINATE with IB vaccine. No specific treatment. Provide warmth, clean water, and good ventilation. Antibiotics for secondary infections. Local remedy: Crush Garlic and Ginger into their water to boost respiratory immunity during cold weather.",
+            "ha": "YI RIGAKAFI da maganin IB. Babu takamaiman magani. Bayar da ɗumi, ruwa mai tsabta, da isasshiyar iska. Maganin rigakafi don kamuwa da cuta na biyu. Maganin gargajiya: A daka Tafarnuwa da Citta a zuba a ruwan shan su don karfafa garkuwar jiki lokacin sanyi.",
+            "yo": "Ṣe ÀJẸSÁRA pẹ̀lú oògùn IB. Kò sí oògùn pàtó. Fún ni ooru, omi mímọ́, àti àtẹgùn dáradára. Oògùn àrùn fún àkóràn kejì. Oògùn ìbílẹ̀: Gún Aáyù àti Atale sínú omi wọn láti gbé agbára ìdènà àrùn fún mími sókè lásìkò òtútù.",
+            "ig": "GBAA ỌGWỤ MGBOCHI IB. Enweghị ọgwụgwọ pụrụ iche. Nye okpomọkụ, mmiri dị ọcha, na ikuku zuru oke. Ọgwụ nje maka ọrịa nke abụọ. Ọgwụ ọdịnala: Suo Ayuu na Jinja n'ime mmiri ha iji bulie usoro ahụ ji alụso ọrịa ọgụ n'oge oyi.",
+            "pcm": "VACCINATE with IB vaccine. No special treatment. Give warmth, clean water, and good breeze. Antibiotics for secondary infections. Local remedy: Crush Garlic and Ginger put inside dia water to make dia body strong against cold.",
             "sw": "VACCINATE with IB vaccine. No specific treatment. Provide warmth, clean water, and good ventilation. Antibiotics for secondary infections."
         },
         "escalation_words": [
@@ -886,11 +886,11 @@
             ]
         },
         "advice": {
-            "en": "Antibiotics (e.g., amoxicillin) under vet guidance. Remove carrier birds. Strict sanitation. Vaccinate breeders.",
-            "ha": "Maganin rigakafi (misali, amoxicillin) a ƙarƙashin kulawar likitan dabbobi. Cire tsuntsaye masu ɗauke da cutar. Tsafta sosai. Yi rigakafin masu haihuwa.",
-            "yo": "Oògùn àrùn (bíi amoxicillin) lábẹ́ ìtọ́sọ́nà dókítà. Yọ àwọn ẹyẹ tó ń kó àrùn. Ìmọ́tótó tó péye. Ṣe àjẹsára fún àwọn adìẹ.",
-            "ig": "Ọgwụ nje (dịka amoxicillin) n'okpuru nduzi dibia. Wepụ nnụnụ na-ebu ọrịa. Ịdị ọcha siri ike. Gbaa ọgwụ mgbochi ndị na-amụ ụmụ.",
-            "pcm": "Antibiotics (like amoxicillin) with vet advice. Remove carrier birds. Strict sanitation. Vaccinate breeders.",
+            "en": "Antibiotics (e.g., amoxicillin) under vet guidance. Remove carrier birds. Strict sanitation. Vaccinate breeders. Local remedy: Add crushed garlic and a little apple cider vinegar to water for gut support.",
+            "ha": "Maganin rigakafi (misali, amoxicillin) a ƙarƙashin kulawar likitan dabbobi. Cire tsuntsaye masu ɗauke da cutar. Tsafta sosai. Yi rigakafin masu haihuwa. Maganin gargajiya: A kara tafarnuwa da daddawa a cikin ruwan shan su.",
+            "yo": "Oògùn àrùn (bíi amoxicillin) lábẹ́ ìtọ́sọ́nà dókítà. Yọ àwọn ẹyẹ tó ń kó àrùn. Ìmọ́tótó tó péye. Ṣe àjẹsára fún àwọn adìẹ. Oògùn ìbílẹ̀: Fi aáyù tí a gún pẹ̀lú ọtí kíkan sínú omi wọn.",
+            "ig": "Ọgwụ nje (dịka amoxicillin) n'okpuru nduzi dibia. Wepụ nnụnụ na-ebu ọrịa. Ịdị ọcha siri ike. Gbaa ọgwụ mgbochi ndị na-amụ ụmụ. Ọgwụ ọdịnala: Tinye ayuu asụrụ asụ n'ime mmiri ha.",
+            "pcm": "Antibiotics (like amoxicillin) with vet advice. Remove carrier birds. Strict sanitation. Vaccinate breeders. Local remedy: Put crushed garlic and small apple cider vinegar for water to support dia belle.",
             "sw": "Antibiotics (e.g., amoxicillin) under vet guidance. Remove carrier birds. Strict sanitation. Vaccinate breeders."
         },
         "escalation_words": [
@@ -1792,5 +1792,276 @@
             "ig": "Nye ha mmiri oyi mgbe niile. Tinye Vitamin C n'ime mmiri ha. Enyela ha nri n'ehihie (12pm-4pm). Mee ka ikuku bata nke ọma n'ụlọ ha.",
             "pcm": "Give dem fresh cold water plenty. Add Vitamin C and electrolytes inside water. No give dem feed around afternoon sun time (12-4pm). Make sure say breeze dey enter di pen well well."
         }
+    },
+    {
+        "id": "aspergillosis",
+        "names": {
+            "en": "Aspergillosis (Brooder Pneumonia)",
+            "ha": "Cutar Numfashi ta Aspergillosis",
+            "yo": "Àrùn Mímí Aspergillosis",
+            "ig": "Ọrịa Ume Aspergillosis",
+            "pcm": "Brooder Pneumonia",
+            "sw": "Aspergillosis"
+        },
+        "severity": "MEDIUM",
+        "symptoms": {
+            "en": [
+                "gasping",
+                "rapid breathing",
+                "silent breathing",
+                "loss of appetite",
+                "sleepiness",
+                "moldy feed",
+                "moldy litter",
+                "respiratory distress",
+                "chicks dying"
+            ],
+            "ha": [
+                "wahalar numfashi",
+                "saurin numfashi",
+                "ciwon kaji",
+                "abinci mai m"
+            ],
+            "yo": [
+                "mímí yíyá",
+                "àìfẹ́ oúnjẹ",
+                "oorun",
+                "oúnjẹ kíkòó"
+            ],
+            "ig": [
+                "iku ume ọkụ ọkụ",
+                "enweghị agụụ",
+                "ụra",
+                "nri ebu"
+            ],
+            "pcm": [
+                "breathing fast",
+                "no appetite",
+                "sleep sleep",
+                "moldy feed",
+                "moldy wood finish",
+                "chicks dying quick"
+            ],
+            "sw": [
+                "kupumua haraka",
+                "kukosa hamu ya kula",
+                "usingizi"
+            ]
+        },
+        "advice": {
+            "en": "Caused by mold in feed or litter (wood shavings). REMOVE all moldy litter and feed immediately. Ensure good ventilation. Local remedy: Add a little apple cider vinegar to drinking water to inhibit fungal growth in the gut.",
+            "pcm": "Na mold inside dia feed or wood shavings dey cause am. REMOVE all the moldy feed and bed immediately. Open window well. Local remedy: Put small apple cider vinegar for dia water to fight the fungus.",
+            "ha": "Kyakkyawar datti ko abinci ne ke haddasawa. Cire duk wani abinci da datti mai m. Tabbatar da iska mai kyau.",
+            "yo": "Eérí tàbí oúnjẹ tó kòó ló ń fà á. Mú gbogbo rẹ̀ kúrò. Rí i pé àtẹgùn wọlé dáradára.",
+            "ig": "Ọ bụ ebu dị na nri ma ọ bụ ihe ndina na-ebute ya. Wepụ ihe niile nwere ebu ozugbo. Gbaa mbọ hụ na ikuku na-abata nke ọma."
+        },
+        "escalation_words": [
+            "moldy",
+            "mold",
+            "m",
+            "kíkòó",
+            "ebu",
+            "rapid breathing",
+            "gasping"
+        ]
+    },
+    {
+        "id": "crd_mycoplasmosis",
+        "names": {
+            "en": "Chronic Respiratory Disease (CRD)",
+            "ha": "Cutar Sanyi / CRD",
+            "yo": "Àrùn Òtútù CRD",
+            "ig": "Ọrịa Oyi CRD",
+            "pcm": "CRD (Cough and Catarrh)",
+            "sw": "CRD"
+        },
+        "severity": "MEDIUM",
+        "symptoms": {
+            "en": [
+                "swollen face",
+                "sneezing",
+                "coughing",
+                "nasal discharge",
+                "foamy eyes",
+                "snicking",
+                "reduced feed",
+                "poor growth",
+                "ammonia smell"
+            ],
+            "ha": [
+                "kumburin fuska",
+                "atishawa",
+                "tari",
+                "majina",
+                "kumfa a ido"
+            ],
+            "yo": [
+                "wíwú ojú",
+                "sísìn",
+                "ikọ́",
+                "ìmú ṣíṣàn",
+                "ojú omi"
+            ],
+            "ig": [
+                "ihu fụrụ akpụ",
+                "uzere",
+                "ụkwara",
+                "imi na-agbapụta",
+                "anya ụfụfụ"
+            ],
+            "pcm": [
+                "swollen face",
+                "sneezing",
+                "cough",
+                "catarrh",
+                "foam for eye",
+                "bad ammonia smell",
+                "breathing sound"
+            ],
+            "sw": [
+                "uso kuvimba",
+                "kupiga chafya",
+                "kukohoa",
+                "kutokwa na kamasi"
+            ]
+        },
+        "advice": {
+            "en": "Treat with antibiotics (Tylosin or Erythromycin). Improve ventilation and reduce ammonia (clean the pen). Local remedy: Boil garlic, ginger, and cayenne pepper and add the strained water to their drinking water to clear airways.",
+            "pcm": "Buy antibiotics like Tylosin. Open window make smell of ammonia commot (clean the pen). Local remedy: Boil garlic, ginger, and small pepper, put the water for dia drinking water to clear dia chest.",
+            "ha": "Yi magani da maganin rigakafi. Inganta shigar iska da rage warin kashi (wanke dakin).",
+            "yo": "Tọ́jú pẹ̀lú oògùn àrùn (Tylosin). Jẹ́ kí àtẹgùn wọlé dáradára kí o sì dín òórùn ìgbẹ́ kù.",
+            "ig": "Jiri ọgwụ nje gwọọ ya (Tylosin). Mee ka ikuku bata nke ọma ma belata ísí nsị ha."
+        },
+        "escalation_words": [
+            "foamy eyes",
+            "ammonia",
+            "swollen face",
+            "sneezing",
+            "catarrh"
+        ]
+    },
+    {
+        "id": "necrotic_enteritis",
+        "names": {
+            "en": "Necrotic Enteritis",
+            "ha": "Necrotic Enteritis",
+            "yo": "Necrotic Enteritis",
+            "ig": "Necrotic Enteritis",
+            "pcm": "Necrotic Enteritis",
+            "sw": "Necrotic Enteritis"
+        },
+        "severity": "HIGH",
+        "symptoms": {
+            "en": [
+                "severe diarrhea",
+                "foul-smelling stool",
+                "sudden increase in mortality",
+                "depression",
+                "ruffled feathers",
+                "dark brown stool"
+            ],
+            "ha": [
+                "zawo mai tsanani",
+                "zawo mai wari",
+                "mutuwar kwatsam"
+            ],
+            "yo": [
+                "ìgbẹ́ gbuuru",
+                "ìgbẹ́ tó ń rùn",
+                "ikú lójijì"
+            ],
+            "ig": [
+                "oke afọ ọsịsa",
+                "nsị na-esi ísí ọjọọ",
+                "ọnwụ mberede"
+            ],
+            "pcm": [
+                "bad diarrhea",
+                "smelling shit",
+                "birds dying fast",
+                "dark brown shit",
+                "depression"
+            ],
+            "sw": [
+                "kuharisha sana",
+                "kinyesi kinachonuka",
+                "kifo cha ghafla"
+            ]
+        },
+        "advice": {
+            "en": "Often follows Coccidiosis. Treat with Bacitracin or Penicillin in water. Remove dead birds quickly. Local remedy: Bitter leaf extract helps to cleanse the digestive system.",
+            "pcm": "E dey happen after Coccidiosis. Treat with antibiotics like Penicillin for water. Remove dead birds quick. Local remedy: Bitter leaf water fit help wash dia belle.",
+            "ha": "Yana biye da Coccidiosis. Yi magani da rigakafi. Cire matattun kaji da sauri.",
+            "yo": "O sábà máa ń tẹ̀lé Coccidiosis. Tọ́jú pẹ̀lú oògùn àrùn. Kó àwọn ẹyẹ tó ti kú kúrò kíákíá.",
+            "ig": "Ọ na-esochi Coccidiosis. Jiri ọgwụ nje gwọọ ya. Wepụ ọkụkọ nwụrụ anwụ ozugbo."
+        },
+        "escalation_words": [
+            "foul-smelling",
+            "dark brown stool",
+            "mortality",
+            "smelling shit"
+        ]
+    },
+    {
+        "id": "bumblefoot",
+        "names": {
+            "en": "Bumblefoot (Pododermatitis)",
+            "ha": "Ciwon Kafa (Bumblefoot)",
+            "yo": "Ọgbẹ́ Ẹsẹ̀",
+            "ig": "Ọnya Ụkwụ",
+            "pcm": "Bumblefoot",
+            "sw": "Bumblefoot"
+        },
+        "severity": "LOW",
+        "symptoms": {
+            "en": [
+                "swollen foot",
+                "black scab on footpad",
+                "limping",
+                "lameness",
+                "reluctance to walk",
+                "hard swelling on sole"
+            ],
+            "ha": [
+                "kumburin kafa",
+                "bakin tabo a tafin kafa",
+                "dingishi"
+            ],
+            "yo": [
+                "wíwú ẹsẹ̀",
+                "eépa dúdú lábẹ́ ẹsẹ̀",
+                "rírọ"
+            ],
+            "ig": [
+                "ụkwụ fụrụ akpụ",
+                "akpụkpọ ojii n'ọbụ ụkwụ",
+                "ịngwụrọ"
+            ],
+            "pcm": [
+                "swollen leg",
+                "black scab for foot",
+                "limping",
+                "bird no gree walk",
+                "swollen foot pad"
+            ],
+            "sw": [
+                "mguu kuvimba",
+                "kigaga cheusi kwenye wayo",
+                "kuchechemea"
+            ]
+        },
+        "advice": {
+            "en": "Caused by sharp objects or rough perches. Clean the wound, soak in warm salt water, apply iodine, and bandage. Ensure litter is soft and deep.",
+            "pcm": "Sharp object or bad wood dey cause am. Wash the wound, soak am inside warm salt water, put iodine and tie am. Make sure say dia bed soft.",
+            "ha": "Abubuwa masu kaifi ne ke kawowa. Wanke raunin, jika a ruwan dumi da gishiri, sa iodine.",
+            "yo": "Ohun mímú ló ń fà á. Fọ ọgbẹ́ náà, rẹ ẹ́ sínú omi iyọ̀ tó lọ́wọ́ọ́, fi oògùn sí i.",
+            "ig": "Ihe dị nkọ na-akpata ya. Saa ọnya ahụ, nye ya mmiri nnu ọkụ, tinye iodine."
+        },
+        "escalation_words": [
+            "limping",
+            "black scab",
+            "swollen foot",
+            "swollen leg"
+        ]
     }
 ]
